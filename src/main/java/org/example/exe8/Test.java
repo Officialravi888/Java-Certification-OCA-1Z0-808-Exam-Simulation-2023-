@@ -4,7 +4,7 @@ class Point{
     int x;
     int y;
     void assign(int x, int y){
-        x=this.x;
+        x=this.x; // esme koi value nahi le rha h esi ley 0 aa rha h This is not avalival;
         this.y=y;
     }
 
