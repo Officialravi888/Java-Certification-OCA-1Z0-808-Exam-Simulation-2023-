@@ -3,7 +3,7 @@ package org.example.exe2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Test {
+public class Test {  //ptint 1 strength
     public static void main(String[] args) {
         String[]names={"Ravi","Kant","Tom","Som"};
         List<String >list=new ArrayList<>();
