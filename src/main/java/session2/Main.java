@@ -1,4 +1,4 @@
-package example1;
+package session2;
 
 public class Main {
 }
