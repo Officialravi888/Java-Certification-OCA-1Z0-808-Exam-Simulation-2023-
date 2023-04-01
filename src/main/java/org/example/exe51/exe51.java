@@ -1,4 +1,4 @@
-package org.example;
+package org.example.exe51;
 
 public class exe51 {
     public static void main(String[] args) {
