@@ -1,2 +1,4 @@
-package session2.exe26;public class Test {
+package session2.exe26;
+
+public class Test {
 }
