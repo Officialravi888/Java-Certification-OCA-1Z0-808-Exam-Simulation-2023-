@@ -10,15 +10,7 @@ class Base{
         System.out.println(++id);
     }
 }
-class Derived extends Base{
-    int id=2000;
-    Derived(){
 
-    }
-    void Base() {
-        System.out.println(--id);
-    }
-}
 public class Test {
     public static void main(String[] args) {
         Base b=new Derived();
